@@ -7,7 +7,7 @@ Welcome to the Vehicle Simulation Game! This game is developed using Unity and C
 
 ## Features
 
-- **Realistic Vehicle Physics**: Experience realistic vehicle dynamics and controls.
+- **Vehicle Physics**: Experience vehicle dynamics and controls.
 - **Obstacle Courses**: Navigate through challenging obstacle courses designed to test your driving skills.
 - **Intuitive Controls**: Use the WASD keys for easy and intuitive vehicle control.
 - **Engaging Graphics**: Enjoy a visually appealing environment with intermediate graphics.
