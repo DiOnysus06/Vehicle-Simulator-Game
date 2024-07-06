@@ -37,7 +37,7 @@ Welcome to the Vehicle Simulation Game! This game is developed using Unity and C
 
 ### Prerequisites
 
-- **Unity**: Make sure you have Unity installed. The project was developed using Unity version [your version].
+- **Unity**: Make sure you have Unity installed. The project was developed using Unity.
 - **C#**: Basic understanding of C# is beneficial for modifying the game.
 
 ### Project Structure
